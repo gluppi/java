@@ -1,3 +1,3 @@
 # java
-miscellaneos classes
+miscellaneous classes - 
 copyleft.
